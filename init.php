@@ -1,7 +1,5 @@
 <?php
 require 'vendor/autoload.php';
-require 'lib/friends.php';
-require 'lib/money.php';
 
 //New app//
 $app=new \atk4\ui\App('Contact Form');

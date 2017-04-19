@@ -1,5 +1,5 @@
 <?php
-class money extends \atk4\data\Model {
+class Money extends \atk4\data\Model {
 	public $table = 'friends';	
 	function init() {
 		parent::init();
